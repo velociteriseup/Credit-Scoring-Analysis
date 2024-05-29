@@ -1,4 +1,3 @@
-```
 # Credit Scoring Analysis
 
 ## Overview
@@ -35,6 +34,4 @@ By combining data exploration, feature engineering, credit score calculation, an
 ## Conclusion
 
 This project exemplifies the ability to tackle complex data analysis tasks, derive meaningful insights, and deliver actionable recommendations. It showcases expertise in data science and commitment to delivering impactful solutions in real-world scenarios.
-```
-
 
